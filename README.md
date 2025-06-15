@@ -37,7 +37,7 @@ The user can select a technique, upload an image, and view both the original and
 
 ---
 
-## 🧠 Features
+## Features
 
 - Easy-to-use **Streamlit** interface.
 - Supports common image formats: `.jpg`, `.jpeg`, and `.png`.
@@ -49,7 +49,7 @@ The user can select a technique, upload an image, and view both the original and
 
 ---
 
-## 🧱 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ pip install streamlit opencv-python pillow
 
 ---
 
-## 🚀 Installation
+## Installation
 
 To install and run the app locally:
 
@@ -88,7 +88,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Running Script
+## Running Script
 
 Once installed, simply run the following command in your terminal:
 
@@ -100,7 +100,7 @@ This will launch the Streamlit application in your browser, where you can intera
 
 ---
 
-## 🧾 Expectations When Running This App
+## Expectations When Running This App
 
 - The user must upload an image in `.jpg`, `.jpeg`, or `.png` format.
 - One of the three cartoonization techniques must be selected from the dropdown menu.
@@ -110,7 +110,7 @@ This will launch the Streamlit application in your browser, where you can intera
 
 ---
 
-## 🎬 Demo
+## Demo
 
 Here’s a quick overview of how the app looks in action:
 
@@ -123,7 +123,7 @@ You can also run this app on [Streamlit Cloud](https://streamlit.io) for public 
 
 ---
 
-## 🧩 Acknowledgments
+## Acknowledgments
 
 - **Streamlit** – For the easy-to-use UI.
 - **OpenCV** – For powerful image processing capabilities.
@@ -131,7 +131,7 @@ You can also run this app on [Streamlit Cloud](https://streamlit.io) for public 
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
