@@ -5,7 +5,7 @@ A Streamlit-based application that allows users to upload an image and apply one
 ## Table of Contents
 
   - [About the Project](#-about-the-project)
-    - [What are the Cartoonizer Techniques?](#what-are-the-cartoonizer-techniques)
+    - [What Cartoonizer Techniques are Used?](#what-cartoonizer-techniques-are-used)
     - [How It Works:](#how-it-works)
   - [Features](#-features)
   - [Getting Started](#-getting-started)
@@ -21,7 +21,7 @@ A Streamlit-based application that allows users to upload an image and apply one
 
 ## About the Project
 
-### What are the Cartoonizer Techniques?
+### What Cartoonizer Techniques are Used?
 
 This **Cartoonizer App** is a simple yet powerful image processing tool that applies different cartoonization techniques to an uploaded image. It uses **OpenCV** and **Streamlit** for performance, visualization, and user interaction.
 
@@ -33,7 +33,7 @@ The app applies one of the following techniques to generate a cartoon-style vers
 2. **Color Quantization + Edge Enhancement** – Reduces colors and sharpens edges for a more stylized look.
 3. **Laplacian Edge Detection** – Uses edge detection to enhance sharpness and detail.
 
-The user can select a technique, upload an image, and view both the original and cartoonized versions side-by-side.
+The user can select a technique, upload an image, and view both the original and cartoonized versions on the app.
 
 ---
 
@@ -76,8 +76,8 @@ To install and run the app locally:
 
 ```bash
 # Clone this repository (if needed)
-git clone https://github.com/YOUR_GITHUB_USERNAME/cartoonize-img-using-opencv.git
-cd cartoonize-img-using-opencv
+git clone https://github.com/YOUR_GITHUB_USERNAME/img-cartoonizer-using-opencv.git
+cd img-cartoonizer-using-opencv
 
 # Install dependencies
 pip install streamlit opencv-python pillow
@@ -117,9 +117,9 @@ Here’s a quick overview of how the app looks in action:
 1. Open your browser and go to `http://localhost:8501` (or the URL provided by Streamlit).
 2. Upload an image.
 3. Select a cartoonization method.
-4. View the original and processed images side-by-side.
+4. View the original and processed images on the web app UI.
 
-You can also run this app on [Streamlit Cloud](https://streamlit.io) for public access.
+https://github.com/user-attachments/assets/eed42b99-be5f-470f-ba0c-0733e301a8e0
 
 ---
 
